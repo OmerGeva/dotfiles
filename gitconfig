@@ -49,3 +49,5 @@
 [user]
 	email = ogeva97@gmail.com
 	name = Omer Geva
+[credential]
+	helper = store
